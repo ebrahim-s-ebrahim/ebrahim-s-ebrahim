@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ebrahim Sayed Ebrahim
 - 👀 I’m interested in Web Development using .NET
-- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on new projects to enhance my skills
 - 📫 Here is my LinkedIn: https://www.linkedin.com/in/ebrahim-s-ebrahim/
 
